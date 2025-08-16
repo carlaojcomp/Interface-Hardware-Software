@@ -1,0 +1,1 @@
+savedcmd_/home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/Module.symvers -T /home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/modules.order -i Module.symvers -e 
