@@ -1,0 +1,1 @@
+savedcmd_/home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/arduino_tty_mouse.mod := printf '%s\n'   arduino_tty_mouse.o | awk '!x[$$0]++ { print("/home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/"$$0) }' > /home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/arduino_tty_mouse.mod

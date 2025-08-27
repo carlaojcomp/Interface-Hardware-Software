@@ -1,1 +1,1 @@
-savedcmd_/home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/modules.order := {   echo /home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/arduino-serial-mouse.o; :; } > /home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/modules.order
+savedcmd_/home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/modules.order := {   echo /home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/arduino_tty_mouse.o; :; } > /home/carlao/WSL2-Linux-Kernel/drivers/input/mouse/arduino/modules.order
